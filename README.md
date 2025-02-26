@@ -1,3 +1,22 @@
+
+![Tests](https://github.com/WicaebethTheo/PARTIEL_3INFO_DEVOPS/actions/workflows/tests.yml/badge.svg)
+![Lint](https://github.com/WicaebethTheo/PARTIEL_3INFO_DEVOPS/actions/workflows/lint.yml/badge.svg)
+
+
+rootdir: C:\Users\Wica\PARTIEL_3INFO_DEVOPS
+plugins: cov-6.0.0
+collected 6 items                                                                                                                                                                                                     
+
+test_app.py ....                                                                                                                                                                                                [ 66%] 
+tests\test_temperature.py ..                                                                                                                                                                                    [100%] 
+
+================================================================================================= 6 passed in 0.15s ==================================================================================================
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
 # Partiel DEVOPS - Exemple avec Python et GitHub Actions
 
 Ce dépôt contient un projet Python simple avec :
@@ -29,15 +48,3 @@ Ce dépôt contient un projet Python simple avec :
 7. Rendre le lien de votre répository contenant les github actions que vous aurez implémenté. 
 
 ***Attention à bien mettre votre repository en PUBLIC !***
-
-# PARTIEL_3INFO_DEVOPS
-
-![Tests](https://github.com/WicaebethTheo/PARTIEL_3INFO_DEVOPS/actions/workflows/tests.yml/badge.svg)
-![Lint](https://github.com/WicaebethTheo/PARTIEL_3INFO_DEVOPS/actions/workflows/lint.yml/badge.svg)
-
-PS C:\Users\Wica\PARTIEL_3INFO_DEVOPS> python .\test_app.py
-....
-----------------------------------------------------------------------
-Ran 4 tests in 0.000s
-
-OK
