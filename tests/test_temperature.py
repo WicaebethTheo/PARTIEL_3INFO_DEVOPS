@@ -11,4 +11,3 @@ def test_fahrenheit_to_celsius():
     temp = Temperature()
     assert temp.fahrenheit_to_celsius(32) == 0
     assert temp.fahrenheit_to_celsius(212) == 100
-
