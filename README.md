@@ -29,3 +29,8 @@ Ce dépôt contient un projet Python simple avec :
 7. Rendre le lien de votre répository contenant les github actions que vous aurez implémenté. 
 
 ***Attention à bien mettre votre repository en PUBLIC !***
+
+# PARTIEL_3INFO_DEVOPS
+
+![Tests](https://github.com/WicaebethTheo/PARTIEL_3INFO_DEVOPS/actions/workflows/tests.yml/badge.svg)
+![Lint](https://github.com/WicaebethTheo/PARTIEL_3INFO_DEVOPS/actions/workflows/lint.yml/badge.svg)
