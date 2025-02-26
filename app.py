@@ -1,18 +1,18 @@
 def add(a, b):
-    """Ajoute deux nombres."""
     return a + b
 
-def multiply( x,y ):
-    return x*y
 
-def divide(x , y ):
-    beta = 0
-    if y != 0:
-        return x/y
+def multiply(a, b):
+    return a * b
+
+
+def divide(a, b):
+    if b == 0:
+        return None
+    return a / b
+
 
 def greet(name):
-    # GREET FONCTION
-    if name =="":
+    if name == "":
         return "Hello, World!"
-    else:
-       return "Hello,"+name
+    return f"Hello,{name}"
