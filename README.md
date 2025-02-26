@@ -34,3 +34,10 @@ Ce dépôt contient un projet Python simple avec :
 
 ![Tests](https://github.com/WicaebethTheo/PARTIEL_3INFO_DEVOPS/actions/workflows/tests.yml/badge.svg)
 ![Lint](https://github.com/WicaebethTheo/PARTIEL_3INFO_DEVOPS/actions/workflows/lint.yml/badge.svg)
+
+PS C:\Users\Wica\PARTIEL_3INFO_DEVOPS> python .\test_app.py
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
