@@ -5,3 +5,4 @@ class Temperature:
 
     def fahrenheit_to_celsius(self, fahrenheit):
         return (fahrenheit - 32) * 5/9
+
